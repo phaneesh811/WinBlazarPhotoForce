@@ -1,0 +1,15 @@
+<order photographerID="freedphoto" orderID="3060603" orderTotal="43.11" tax="2.16" creationDate="06/29/2016 02:18 PM" >
+<customerInfo FirstName="NEMELINE" LastName="RAYRAY" Address="7953 OTTER COVE COURT," City="GAITHERSBURG" State="MD" PostalCode="20886" Country="US" email="nema.winston@gmail.com" phone="7038519637"/>
+<shippingInfo FirstName="NEMELINE" LastName="RAYRAY" Address="7953 OTTER COVE COURT," City="GAITHERSBURG" State="MD" PostalCode="20886" Country="US" phone="7038519637" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Laytonsville 15-16 Spring Student Portraits" venueName="" name="Winston_Kelvin" privateGalleryName="Winston_Kelvin" password="XWKG6617" priceListName="6101CP - Class Photo Included - PREM">
+<image img="Winston_Kelvin_33A0229.JPG" roll="" sn=""/>
+<image img="Winston_Kelvin_33A0229.JPG" roll="" sn=""/>
+<Entry productCode="I" billingCode="M109" packageCode="" qty="1" productType="Product" itemLabel="(2) - 5x7 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Winston_Kelvin_33A0229.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Winston_Kelvin_33A0229.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

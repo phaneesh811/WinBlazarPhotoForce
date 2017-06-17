@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order creationDate="01/08/2016 09:24 AM" dp2OrderID="S1882967A" orderID="1882967" orderNumber="15802" orderTotal="49.90" photographerID="" tax="2.40">
+<customerInfo Address="15810 Barnesville Rd" City="Boyds" Country="US" FirstName="Melissa" LastName="Hyman" PostalCode="20841" State="MD" email="melissa.hyman1@gmail.com" phone="3014282888"/>
+<shippingInfo Address="15810 Barnesville Rd" City="Boyds" Country="US" FirstName="Melissa" LastName="Hyman" PostalCode="20841" State="MD" phone="3014282888" useBilltoShip="true"/>
+<orderDetail amount="7.50" description="7-10 Business Days" productCode="" title="Download / Shipping Fee" type="Shipping"/>
+<galleryInfo groupName="20151107_Bullis_Jazz Cafe &amp; Dance Show" jobNumber="15802" name="20151107_Bullis Jazz Cafe &amp; Dance Show" password="BS15802" priceListName=" **2015-16 School Event w Gift Items" privateGalleryName="" venueName="The Bullis School">
+<image img="Freed_15802_330077.jpg" roll="" sn=""/>
+<Entry billingCode="M109" itemLabel="(2) 5x7 Matte Photographs" labCost="" productCode="I" productType="Product" qty="1" retailPrice="20.00">
+<imgnode img="Freed_15802_330077.jpg" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+
+</order>

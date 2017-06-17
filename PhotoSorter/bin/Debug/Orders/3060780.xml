@@ -1,0 +1,23 @@
+<order photographerID="freedphoto" orderID="3060780" orderTotal="130.03" tax="7.08" creationDate="06/29/2016 11:41 PM" >
+<customerInfo FirstName="Kevin" LastName="Days" Address="10921 Carters Oak Way," City="Burke" State="VA" PostalCode="22015" Country="US" email="kdaysmgt@gmail.com" phone="703-250-2801"/>
+<shippingInfo FirstName="Kevin" LastName="Days" Address="10921 Carters Oak Way," City="Burke" State="VA" PostalCode="22015" Country="US" phone="703-250-2801" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Smithsonian EEC 15-16 Spring Student Portraits" venueName="" name="Days_Kati" privateGalleryName="Days_Kati" password="EDKT2829" priceListName="1205 PREM W/Class">
+<image img="Days_Kati_270236.JPG" roll="" sn=""/>
+<Entry productCode="AE" billingCode="M131" packageCode="" qty="1" productType="Product" itemLabel="Package E" labCost="" retailPrice="50.00">
+<imgnode img="Days_Kati_270236.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Smithsonian EEC 15-16 Spring Student Portraits" venueName="" name="Days_Quincy" privateGalleryName="Days_Quincy" password="ED127729" priceListName="1205 PREM W/Class">
+<image img="Days_Quincy_270617.JPG" roll="" sn=""/>
+<Entry productCode="AE" billingCode="M131" packageCode="" qty="1" productType="Product" itemLabel="Package E" labCost="" retailPrice="50.00">
+<imgnode img="Days_Quincy_270617.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Smithsonian EEC 15-16 Spring Student Portraits" venueName="" name="Days_SIBS" privateGalleryName="Days_SIBS" password="EDWT8533" priceListName="1205 PREM W/Class">
+<image img="Days_SIBS_270628.JPG" roll="" sn=""/>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Days_SIBS_270628.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

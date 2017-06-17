@@ -1,0 +1,25 @@
+<order photographerID="freedphoto" orderID="3060664" orderTotal="81.27" tax="4.32" creationDate="06/29/2016 06:14 PM" >
+<customerInfo FirstName="Maryam" LastName=" Fadaei" Address="7600 Whittier Blvd," City="Bethesda" State="MD" PostalCode="20817" Country="US" email="mfadaei11@yahoo.com" phone="3013203212"/>
+<shippingInfo FirstName="Maryam" LastName=" Fadaei" Address="7600 Whittier Blvd," City="Bethesda" State="MD" PostalCode="20817" Country="US" phone="3013203212" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Burning Tree 15-16 Spring Student Portraits" venueName="" name="Rizi_Rosha" privateGalleryName="Rizi_Rosha" password="3WT31531" priceListName="1205 PREM W/Class">
+<image img="1 Briggs_Class_14A0042.jpg" roll="" sn=""/>
+<image img="Rizi_Rosha_31A0248.JPG" roll="" sn=""/>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="1 Briggs_Class_14A0042.jpg" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Rizi_Rosha_31A0248.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Burning Tree 15-16 Spring Student Portraits" venueName="" name="Rizi_Ryan" privateGalleryName="Rizi_Ryan" password="3WT45831" priceListName="1205 PREM W/Class">
+<image img="Rizi_Ryan_12A0481.JPG" roll="" sn=""/>
+<image img="2 Salcetti_Class_14A0168.jpg" roll="" sn=""/>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Rizi_Ryan_12A0481.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="2 Salcetti_Class_14A0168.jpg" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

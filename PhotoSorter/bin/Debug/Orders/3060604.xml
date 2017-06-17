@@ -1,0 +1,15 @@
+<order photographerID="freedphoto" orderID="3060604" orderTotal="96.99" tax="8.04" creationDate="06/29/2016 02:22 PM" >
+<customerInfo FirstName="Danielle" LastName="Burwell" Address="612 Butternut St NW," City="Washington" State="DC" PostalCode="20012" Country="US" email="dburwell17@gmail.com" phone="202-425-7212"/>
+<shippingInfo FirstName="Danielle" LastName="Burwell" Address="612 Butternut St NW," City="Washington" State="DC" PostalCode="20012" Country="US" phone="202-425-7212" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Janney 15-16 Student Portraits" venueName="" name="Burwell_Jacob" privateGalleryName="Burwell_Jacob" password="CUWF9855" priceListName="6102NCP - NO Class Photo - PREM">
+<image img="Burwell_Jacob_321364.jpg" roll="" sn=""/>
+<image img="Burwell_Jacob_321349.jpg" roll="" sn=""/>
+<Entry productCode="E" billingCode="M105" packageCode="" qty="1" productType="Product" itemLabel="Package E" labCost="" retailPrice="35.00">
+<imgnode img="Burwell_Jacob_321364.jpg" roll="" sn=""/>
+</Entry>
+<Entry productCode="AM" billingCode="S139" packageCode="" qty="1" productType="Product" itemLabel="High Resolution Image Download of ALL Images" labCost="" retailPrice="99.00">
+<imgnode img="Burwell_Jacob_321349.jpg" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

@@ -1,0 +1,16 @@
+<order photographerID="freedphoto" orderID="3060548" orderTotal="209.88" tax="11.88" creationDate="06/29/2016 11:49 AM" >
+<customerInfo FirstName="Angela" LastName="Saffoe" Address="9148 Rockefeller Lane," City="Springfield" State="VA" PostalCode="22153" Country="US" email="amp1974@gmail.com" phone="703-609-0580"/>
+<shippingInfo FirstName="Angela" LastName="Saffoe" Address="9148 Rockefeller Lane," City="Springfield" State="VA" PostalCode="22153" Country="US" phone="703-609-0580" useBilltoShip="true"/>
+<galleryInfo jobNumber="" groupName="Smithsonian EEC 15-16 Spring Student Portraits" venueName="" name="Saffoe_Carl" privateGalleryName="Saffoe_Carl" password="TDCH7929" priceListName="6101CP - Class Photo Included - PREM">
+<image img="Saffoe_Carl_240604.JPG" roll="" sn=""/>
+<Entry productCode="AM" billingCode="S139" packageCode="" qty="1" productType="Product" itemLabel="High Resolution Image Download of ALL Images" labCost="" retailPrice="99.00">
+<imgnode img="Saffoe_Carl_240604.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Smithsonian EEC 15-16 Spring Student Portraits" venueName="" name="Saffoe_Clara" privateGalleryName="Saffoe_Clara" password="TDC37729" priceListName="6101CP - Class Photo Included - PREM">
+<image img="Saffoe_Clara_310262.JPG" roll="" sn=""/>
+<Entry productCode="AM" billingCode="S139" packageCode="" qty="1" productType="Product" itemLabel="High Resolution Image Download of ALL Images" labCost="" retailPrice="99.00">
+<imgnode img="Saffoe_Clara_310262.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

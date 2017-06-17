@@ -1,0 +1,17 @@
+<order photographerID="freedphoto" orderID="3060809" orderTotal="89.75" tax="4.80" creationDate="06/30/2016 01:18 AM" >
+<customerInfo FirstName="Nohora" LastName="Diaz" Address="10658 Pine Haven Ter," City="Rockville" State="MD" PostalCode="20852" Country="US" email="noraediaz45@hotmail.com" phone="2024451612"/>
+<shippingInfo FirstName="Nohora" LastName="Diaz" Address="10658 Pine Haven Ter," City="Rockville" State="MD" PostalCode="20852" Country="US" phone="2024451612" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Lycee Bradley 15-16 Students" venueName="" name="Avila_Natalia" privateGalleryName="Avila_Natalia" password="T2UH8110" priceListName="1205 PREM W/Class">
+<image img="Avila_Natalia_272119.JPG" roll="" sn=""/>
+<Entry productCode="AF" billingCode="M132" packageCode="" qty="1" productType="Product" itemLabel="Package F" labCost="" retailPrice="40.00">
+<imgnode img="Avila_Natalia_272119.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Lycee Forest Road 15-16 Students" venueName="" name="Avila_Sofia" privateGalleryName="Avila_Sofia" password="T2YZ4119" priceListName="1205 PREM W/Class">
+<image img="Avila_Sofia_27E0322.JPG" roll="" sn=""/>
+<Entry productCode="AF" billingCode="M132" packageCode="" qty="1" productType="Product" itemLabel="Package F" labCost="" retailPrice="40.00">
+<imgnode img="Avila_Sofia_27E0322.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

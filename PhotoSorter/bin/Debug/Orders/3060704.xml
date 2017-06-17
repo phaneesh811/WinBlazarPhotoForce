@@ -1,0 +1,23 @@
+<order photographerID="freedphoto" orderID="3060704" orderTotal="81.27" tax="4.32" creationDate="06/29/2016 07:49 PM" >
+<customerInfo FirstName="Amy" LastName="Lyon" Address="122 Tuckerman St NE," City="Washington" State="DC" PostalCode="20011" Country="US" email="peripiper2@yahoo.com" phone="2024412766"/>
+<shippingInfo FirstName="Amy" LastName="Lyon" Address="122 Tuckerman St NE," City="Washington" State="DC" PostalCode="20011" Country="US" phone="2024412766" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Inspired Teaching 15-16 Spring Sibling Portraits" venueName="" name="Donahue_Siblings" privateGalleryName="Donahue_Siblings" password="ERWK6968" priceListName="1201 PREM No class">
+<image img="Donahue_Siblings_240797.JPG" roll="" sn=""/>
+<image img="Donahue_Siblings_240795.JPG" roll="" sn=""/>
+<image img="Donahue_Siblings_240784.JPG" roll="" sn=""/>
+<image img="Donahue_Siblings_240779.JPG" roll="" sn=""/>
+<Entry productCode="I" billingCode="M109" packageCode="" qty="1" productType="Product" itemLabel="(2) - 5x7 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Donahue_Siblings_240797.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="J" billingCode="M110" packageCode="" qty="1" productType="Product" itemLabel="(4) - 3.5x5 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Donahue_Siblings_240795.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Donahue_Siblings_240784.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="I" billingCode="M109" packageCode="" qty="1" productType="Product" itemLabel="(2) - 5x7 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Donahue_Siblings_240779.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

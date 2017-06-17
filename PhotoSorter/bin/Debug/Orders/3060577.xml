@@ -1,0 +1,25 @@
+<order photographerID="freedphoto" orderID="3060577" orderTotal="99.29" tax="5.34" creationDate="06/29/2016 01:20 PM" >
+<customerInfo FirstName="Chanigan" LastName="Nilubol" Address="6409 Landon Ln," City="Bethesda" State="MD" PostalCode="20817" Country="US" email="chanigan@hotmail.com" phone="2405156376"/>
+<shippingInfo FirstName="Chanigan" LastName="Nilubol" Address="6409 Landon Ln," City="Bethesda" State="MD" PostalCode="20817" Country="US" phone="2405156376" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Burning Tree 15-16 Students" venueName="" name="Nilubol_Nate" privateGalleryName="Nilubol_Nate" password="NilubolNate" priceListName="6102NCP - NO Class Photo - PREM">
+<image img="Nilubol_Nate_210198.jpg" roll="" sn=""/>
+<image img="Nilubol_Nate_210198.jpg" roll="" sn=""/>
+<Entry productCode="I" billingCode="M109" packageCode="" qty="1" productType="Product" itemLabel="(2) - 5x7 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Nilubol_Nate_210198.jpg" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Nilubol_Nate_210198.jpg" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+<galleryInfo jobNumber="" groupName="Burning Tree 15-16 Spring Student Portraits" venueName="" name="Nilubol_Nate" privateGalleryName="Nilubol_Nate" password="ZWPG4531" priceListName="6101CP - Class Photo Included - PREM">
+<image img="Nilubol_Nate_15A0529.JPG" roll="" sn=""/>
+<image img="Nilubol_Nate_15A0529.JPG" roll="" sn=""/>
+<Entry productCode="AG" billingCode="M133" packageCode="" qty="1" productType="Product" itemLabel="Package G" labCost="" retailPrice="35.00">
+<imgnode img="Nilubol_Nate_15A0529.JPG" roll="" sn=""/>
+</Entry>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="Nilubol_Nate_15A0529.JPG" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>

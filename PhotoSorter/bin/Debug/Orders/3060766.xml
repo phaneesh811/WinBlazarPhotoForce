@@ -1,0 +1,11 @@
+<order photographerID="freedphoto" orderID="3060766" orderTotal="24.03" tax="1.08" creationDate="06/29/2016 10:55 PM" >
+<customerInfo FirstName="Chyeslan" LastName="Buso" Address="13 Augustine Ct.," City="Gaithersburg" State="MD" PostalCode="20879" Country="US" email="chyeslan@yahoo.com" phone="301-873-8233"/>
+<shippingInfo FirstName="Chyeslan" LastName="Buso" Address="13 Augustine Ct.," City="Gaithersburg" State="MD" PostalCode="20879" Country="US" phone="301-873-8233" useBilltoShip="true"/>
+<orderDetail type="Shipping" amount="4.95" title="Download / Shipping Fee" description="" productCode="" labDescription=""/>
+<galleryInfo jobNumber="" groupName="Laytonsville 15-16 Spring Student Portraits" venueName="" name="Fabre_Adrian" privateGalleryName="Fabre_Adrian" password="GDAE2217" priceListName="1205 PREM W/Class">
+<image img="2 Buras_Class_24A0471.jpg" roll="" sn=""/>
+<Entry productCode="H" billingCode="M108" packageCode="" qty="1" productType="Product" itemLabel="(1) - 8x10 Photo" labCost="" retailPrice="18.00">
+<imgnode img="2 Buras_Class_24A0471.jpg" roll="" sn=""/>
+</Entry>
+</galleryInfo>
+</order>
